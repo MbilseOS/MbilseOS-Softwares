@@ -10,4 +10,4 @@
 - [ ] 支持上架App及云运行
 - [x] 支持Mbilse Copilot AI生态
 - [ ] 支持本项目云获取
-- [ ] 接入Mbilse 生态
+- [ ] 接入Mbilse-OS 生态
