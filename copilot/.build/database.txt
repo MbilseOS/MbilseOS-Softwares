@@ -1,0 +1,5 @@
+Name=Copilot AI
+Package=Scheme-A
+PackgeName=com.mbilse.copilot
+Version=3.3
+File=/data/mbilse/ai
